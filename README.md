@@ -12,6 +12,7 @@ where the initial conditions are to be stated by
 Dx is fixed to a value of 0.01, while u’s and dt’s values are given by 0.09 and 0.01
 
 The solution by the explicit two step predictor-corrector Maccormack method is to be given by the equations below.
+
 <img width="267" alt="image" src="https://user-images.githubusercontent.com/73946469/126502164-dbfe98ee-7481-49cd-bae8-e71515e01506.png">
 <img width="387" alt="image" src="https://user-images.githubusercontent.com/73946469/126502199-e5767d6d-8caf-4d69-8ca7-95b3ea94cbda.png">
 

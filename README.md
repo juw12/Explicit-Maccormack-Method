@@ -1,4 +1,53 @@
-# Explicit-Maccormack-Method
+<!-- HERO:START -->
+<p align="center">
+  <a href="https://github.com/juw12/Explicit-Maccormack-Method"><img src="docs/media/banner.jpg" alt="Explicit MacCormack Method: The explicit MacCormack scheme for 1-D wave propagation." width="100%"></a>
+</p>
+
+<p align="center">
+  <b>The explicit MacCormack scheme for 1-D wave propagation.</b><br>
+  A computational fluid dynamics study of a predictor-corrector scheme, with plotted results.
+</p>
+
+<p align="center">
+  <a href="#see-it-in-action">See it in action</a> ·
+  <a href="#highlights">Highlights</a> ·
+  <a href="https://github.com/juw12">More by juw12</a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/juw12/Explicit-Maccormack-Method"><img src="https://img.shields.io/github/last-commit/juw12/Explicit-Maccormack-Method?label=updated&color=0891b2" alt="Last updated"></a>
+  <img src="https://img.shields.io/badge/CFD-24292f" alt="CFD">
+  <img src="https://img.shields.io/badge/Gnuplot-24292f" alt="Gnuplot">
+</p>
+
+<a id="highlights"></a>
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <b>Predictor-corrector</b><br>
+      A second-order explicit scheme for the 1-D wave equation.
+    </td>
+    <td width="33%" valign="top">
+      <b>Plotted results</b><br>
+      Solutions at several time levels, plotted with Gnuplot.
+    </td>
+    <td width="33%" valign="top">
+      <b>Compare schemes</b><br>
+      Pairs with the Upwind Differencing study.
+    </td>
+  </tr>
+</table>
+
+## See it in action
+
+<p align="center">
+  <a href="https://github.com/juw12/Explicit-Maccormack-Method"><img src="maccormack_1_5_10.png" alt="Explicit MacCormack Method screenshot" width="820"></a><br>
+  <sub>Explicit MacCormack Method in use</sub>
+</p>
+<!-- HERO:END -->
+
+## About
+
 The one dimensional wave propagation equation is given by 
 
 <img width="219" alt="image" src="https://user-images.githubusercontent.com/73946469/126501812-364fb701-13a0-4ab8-8dda-539beab539f8.png">

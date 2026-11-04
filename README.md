@@ -67,3 +67,6 @@ The solution by the explicit two step predictor-corrector Maccormack method is t
 
 where the scheme is nonlinear for C ≤1, having an order of accuracy of [(∆𝑡)^2,(∆𝑥)^2].
 
+## License
+
+Released under the [MIT License](LICENSE) © 2026 Juwen Lie. Contributions are welcome under the same license; see the [contributing guide](https://github.com/juw12/.github/blob/main/CONTRIBUTING.md) and [Code of Conduct](https://github.com/juw12/.github/blob/main/CODE_OF_CONDUCT.md).
